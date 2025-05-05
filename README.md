@@ -2,11 +2,11 @@
 
 ## 1. Covering Page
 **Title**: Study and Demonstration of the Linux Boot Process and Virtualization using VirtualBox  
-**Name**: *Your Name*  
-**USN**: *Your USN*  
-**Department**: *Your Department*  
-**College**: *Your College Name*  
-**Date**: *Submission Date*  
+**Name**: *Jayesh Gidwani*  
+**USN**: *4NI22EC032*  
+**Department**: *Electronics and Communication Engineering*  
+**College**: *The National Institute of Engineering*  
+**Date**: *05/05/2025*  
 
 ---
 
